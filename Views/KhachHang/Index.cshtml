@@ -1,0 +1,68 @@
+﻿@*@model IEnumerable<ElectronicWEB.Models.KHACHHANG>*@
+
+<!-- Thêm thư viện -->
+@model PagedList.IPagedList<ElectronicWEB.Models.KHACHHANG>
+@using PagedList.Mvc;
+<!-- Kết thúc-->
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2 style="text-align:center">Danh Sách Khách Hàng</h2>
+
+<p>
+    @Html.ActionLink("Thêm Mới ", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Tên Khách Hàng
+        </th>
+        <th>
+            Giới Tính
+        </th>
+        <th>
+            Số Điện Thoại
+        </th>
+        <th>
+            Ngày Sinh
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenKH)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GT)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SDT)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgaySinh)
+            </td>
+            <td>
+                @Html.ActionLink("Sửa", "Edit", new { id = item.MaKH }) |
+                @Html.ActionLink("Chi Tiết", "Details", new { id = item.MaKH }) |
+                @Html.ActionLink("Xóa", "Delete", new { id = item.MaKH })
+            </td>
+        </tr>
+    }
+
+</table>
+
+<!-- Thêm mã phân trang -->
+<br />
+<div style="text-align:center">
+    Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount
+
+    @Html.PagedListPager(Model, page => Url.Action("Index",
+        new { page }))
+</div>
+<!-- Kết thúc -->

@@ -1,0 +1,79 @@
+﻿@model IEnumerable<ElectronicWEB.Models.SANPHAM>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var ListNewProduct = (List<ElectronicWEB.Models.SANPHAM>)ViewBag.NewProduct;
+}
+<!-- SECTION -->
+<div class="section">
+    <!-- container -->
+    <div class="container">
+        <!-- row -->
+        <div class="row">
+
+            <!-- section title -->
+            <div class="col-md-12">
+                <div class="section-title">
+                    <h3 class="title">Sản Phẩm Mới</h3>
+                        @*<div class="section-nav">
+                            <ul class="section-tab-nav tab-nav">
+                                <li class="active"><a data-toggle="tab" href="#tab1">Laptop</a></li>
+                                <li><a data-toggle="tab" href="#tab1">Smartphone</a></li>
+                                <li><a data-toggle="tab" href="#tab1">Camera</a></li>
+                                <li><a data-toggle="tab" href="#tab1">Phụ Kiện</a></li>
+                            </ul>
+                        </div>*@
+                </div>
+            </div>
+            <!-- /section title -->
+            <!-- Products tab & slick -->
+            <div class="col-md-12">
+                <div class="row">
+                    <div class="products-tabs">
+                        <!-- tab -->
+                        <div id="tab1" class="tab-pane active">
+                            <div class="products-slick" data-nav="#slick-nav-1">
+                                
+                                @foreach (var item in ListNewProduct)
+                                    {
+                                    <div class="product">
+                                        <div class="product-img">
+                                            <img src="~/Content/img/@item.Photo" alt="">
+                                            <div class="product-label">
+                                            <span class="sale">-30%</span>
+                                            </div>
+                                        </div>
+                                        <div class="product-body">
+                                            <p class="product-Sản Phẩm">Sản Phẩm</p>
+                                            <h3 class="product-name"><a href="#">@item.TenSP</a></h3>
+                                            <h4 class="product-price">@(item.Gia.HasValue ? item.Gia.Value.ToString("N0") : "Liên hệ")<del class="product-old-price">9.499.000 đ</del></h4>
+                                            <div class="product-rating">
+                                            </div>
+                                        <div class="product-btns">
+                                            <button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltip">thêm yêu thích</span></button>
+                                            <button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltip">add to compare</span></button>
+                                            <button class="quick-view"><i class="fa fa-eye"></i><span class="tooltip">xem nhanh</span></button>
+                                        </div>
+                                        </div>
+                                        <div class="add-to-cart">
+                                            <a class="add-to-cart-btn" href="/Cart/AddItem?productId=@item.MaSP&quantity=1"><i class="fa fa-shopping-cart"></i> thêm vào giỏ hàng</a>
+                                        </div>
+                                    </div>
+                                    }
+                                    
+                                    <!-- /product -->
+
+                                </div>
+                            <div id="slick-nav-1" class="products-slick-nav"></div>
+                        </div>
+                        <!-- /tab -->
+                    </div>
+                </div>
+            </div>
+            <!-- Products tab & slick -->
+        </div>
+        <!-- /row -->
+    </div>
+    <!-- /container -->
+</div>
+<!-- /SECTION -->

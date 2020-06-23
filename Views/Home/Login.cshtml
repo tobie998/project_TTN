@@ -1,0 +1,103 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Đăng Nhập</title>
+    <!-- plugins:css -->
+    <link rel="stylesheet" href="/Content/materialdesignicons.min.css">
+    <link rel="stylesheet" href="/Content/vendor.bundle.base.css">
+    <link rel="stylesheet" href="/Content/vendor.bundle.addons.css">
+    <!-- endinject -->
+    <!-- plugin css for this page -->
+    <!-- End plugin css for this page -->
+    <!-- inject:css -->
+    <link rel="stylesheet" href="/Content/style1.css">
+    <!-- endinject -->
+    <link rel="shortcut icon" href="/Content/img/favicon.png" />
+    <style>
+        .auth.theme-one .auto-form-wrapper {
+            box-shadow:  none ;
+        
+        }
+    </style>
+</head>
+<body>
+    <div class="container-scroller">
+        <div class="container-fluid page-body-wrapper full-page-wrapper auth-page">
+            <div class="content-wrapper d-flex align-items-center auth auth-bg-1 theme-one">
+                <div class="row w-100">
+                    <div class="col-lg-4 mx-auto">
+                        <div style="text-align:center">
+                            <h2 style="font-family:'Times New Roman'">  Mời Bạn Vui Lòng Đăng Nhập  </h2>
+
+                        </div>
+                        <br>
+                        <br />
+                        <div class="auto-form-wrapper">
+                            <form action="Admin" method="post">
+                                <div class="form-group">
+                                    <label class="label">Tài Khoản</label>
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" placeholder="Nhập Tài Khoản" name="us">
+                                        <div class="input-group-append">
+                                            <span class="input-group-text">
+                                                <i class="mdi mdi-check-circle-outline"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">Mật Khẩu</label>
+                                    <div class="input-group">
+                                        <input type="password" class="form-control" placeholder="*********" name="mk">
+                                        <div class="input-group-append">
+                                            <span class="input-group-text">
+                                                <i class="mdi mdi-check-circle-outline"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <p style="color: red;">@TempData["msg"]</p>
+                                <div class="form-group">
+                                    <button class="btn btn-primary submit-btn btn-block" type="submit">Đăng Nhập</button>
+                                </div>
+                                
+                                
+                            </form>
+                        </div>
+                        <ul class="auth-footer">
+                            <li>
+                                <a href="#">Điều Khoản</a>
+                            </li>
+                            <li>
+                                <a href="#">Hỗ Trợ</a>
+                            </li>
+                            <li>
+                                <a href="#">Chính Sách</a>
+                            </li>
+                        </ul>
+                        <p class="footer-text text-center">copyright © 2018 DuongTran. All rights reserved.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- content-wrapper ends -->
+        </div>
+        <!-- page-body-wrapper ends -->
+    </div>
+    <!-- container-scroller -->
+    <!-- plugins:js -->
+    <script src="/Content/vendor.bundle.base.js"></script>
+    <script src="/Content/vendor.bundle.addons.js"></script>
+    <!-- endinject -->
+    <!-- inject:js -->
+    <script src="/Scripts/off-canvas.js"></script>
+    <script src="/Scripts/misc.js"></script>
+    <!-- endinject -->
+</body>
+</html>
