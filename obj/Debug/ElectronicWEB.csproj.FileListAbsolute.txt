@@ -1,0 +1,331 @@
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\ElectronicWEB.dll.config
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\ElectronicWEB.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\ElectronicWEB.pdb
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\csc.exe
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\csc.exe.config
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\csc.rsp
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\csi.exe
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\csi.exe.config
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\csi.rsp
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\System.AppContext.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Console.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\System.IO.Compression.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Security.Claims.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\System.ValueTuple.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\vbc.exe
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\vbc.exe.config
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\vbc.rsp
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\Antlr3.Runtime.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\EntityFramework.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\EntityFramework.SqlServer.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\Newtonsoft.Json.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\System.Web.Helpers.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\System.Web.Mvc.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\System.Web.Optimization.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\System.Web.Razor.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\System.Web.WebPages.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\System.Web.WebPages.Razor.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\WebGrease.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\EntityFramework.xml
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\EntityFramework.SqlServer.xml
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\System.Web.Helpers.xml
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\System.Web.Mvc.xml
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\System.Web.Optimization.xml
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\System.Web.Razor.xml
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\System.Web.WebPages.xml
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\System.Web.WebPages.Razor.xml
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\Newtonsoft.Json.xml
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\Antlr3.Runtime.pdb
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\obj\Debug\ElectronicWEB.csprojAssemblyReference.cache
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\obj\Debug\ElectronicWEB.csproj.CoreCompileInputs.cache
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\obj\Debug\ElectronicWEB.csproj.CopyComplete
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\obj\Debug\ElectronicWEB.dll
+C:\Users\Duong\source\repos\ElectronicWEB\ElectronicWEB\obj\Debug\ElectronicWEB.pdb
+E:\Project\ElectronicWEB\ElectronicWEB\obj\Debug\ElectronicWEB.csproj.CoreCompileInputs.cache
+E:\Project\ElectronicWEB\ElectronicWEB\obj\Debug\ElectronicWEB.dll
+E:\Project\ElectronicWEB\ElectronicWEB\obj\Debug\ElectronicWEB.pdb
+E:\Project\ElectronicWEB\ElectronicWEB\bin\ElectronicWEB.dll.config
+E:\Project\ElectronicWEB\ElectronicWEB\bin\ElectronicWEB.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\ElectronicWEB.pdb
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\csc.exe
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\csc.exe.config
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\csc.rsp
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\csi.exe
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\csi.exe.config
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\csi.rsp
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\System.AppContext.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Collections.Immutable.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Console.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\System.IO.Compression.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\System.IO.FileSystem.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\System.IO.Pipes.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Reflection.Metadata.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Security.AccessControl.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Security.Claims.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\System.ValueTuple.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Xml.XPath.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\vbc.exe
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\vbc.exe.config
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\vbc.rsp
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\VBCSCompiler.exe
+E:\Project\ElectronicWEB\ElectronicWEB\bin\roslyn\VBCSCompiler.exe.config
+E:\Project\ElectronicWEB\ElectronicWEB\bin\Antlr3.Runtime.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\EntityFramework.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\EntityFramework.SqlServer.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\Microsoft.Web.Infrastructure.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\Newtonsoft.Json.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\System.Web.Helpers.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\System.Web.Mvc.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\System.Web.Optimization.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\System.Web.Razor.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\System.Web.WebPages.Deployment.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\System.Web.WebPages.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\System.Web.WebPages.Razor.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\WebGrease.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\EntityFramework.xml
+E:\Project\ElectronicWEB\ElectronicWEB\bin\EntityFramework.SqlServer.xml
+E:\Project\ElectronicWEB\ElectronicWEB\bin\System.Web.Helpers.xml
+E:\Project\ElectronicWEB\ElectronicWEB\bin\System.Web.Mvc.xml
+E:\Project\ElectronicWEB\ElectronicWEB\bin\System.Web.Optimization.xml
+E:\Project\ElectronicWEB\ElectronicWEB\bin\System.Web.Razor.xml
+E:\Project\ElectronicWEB\ElectronicWEB\bin\System.Web.WebPages.xml
+E:\Project\ElectronicWEB\ElectronicWEB\bin\System.Web.WebPages.Deployment.xml
+E:\Project\ElectronicWEB\ElectronicWEB\bin\System.Web.WebPages.Razor.xml
+E:\Project\ElectronicWEB\ElectronicWEB\bin\Newtonsoft.Json.xml
+E:\Project\ElectronicWEB\ElectronicWEB\bin\Antlr3.Runtime.pdb
+E:\Project\ElectronicWEB\ElectronicWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Project\ElectronicWEB\ElectronicWEB\obj\Debug\ElectronicWEB.csproj.CopyComplete
+E:\Project\ElectronicWEB\ElectronicWEB\bin\PagedList.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\PagedList.Mvc.dll
+E:\Project\ElectronicWEB\ElectronicWEB\bin\PagedList.xml
+E:\Project\ElectronicWEB\ElectronicWEB\bin\PagedList.Mvc.xml
+E:\Project\ElectronicWEB\ElectronicWEB\obj\Debug\ElectronicWEB.csprojAssemblyReference.cache
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\ElectronicWEB.dll.config
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\ElectronicWEB.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\ElectronicWEB.pdb
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\csc.exe
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\csc.exe.config
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\csc.rsp
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\csi.exe
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\csi.exe.config
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\csi.rsp
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\System.AppContext.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\System.Console.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\System.IO.Compression.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\System.IO.Pipes.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\System.Security.Claims.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\System.ValueTuple.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\vbc.exe
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\vbc.exe.config
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\vbc.rsp
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\Antlr3.Runtime.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\EntityFramework.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\EntityFramework.SqlServer.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\Newtonsoft.Json.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\PagedList.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\PagedList.Mvc.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\System.Web.Helpers.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\System.Web.Mvc.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\System.Web.Optimization.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\System.Web.Razor.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\System.Web.WebPages.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\System.Web.WebPages.Razor.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\WebGrease.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\EntityFramework.xml
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\EntityFramework.SqlServer.xml
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\PagedList.xml
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\PagedList.Mvc.xml
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\System.Web.Helpers.xml
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\System.Web.Mvc.xml
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\System.Web.Optimization.xml
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\System.Web.Razor.xml
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\System.Web.WebPages.xml
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\System.Web.WebPages.Razor.xml
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\Newtonsoft.Json.xml
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\Antlr3.Runtime.pdb
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\obj\Debug\ElectronicWEB.csprojAssemblyReference.cache
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\obj\Debug\ElectronicWEB.csproj.CoreCompileInputs.cache
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\obj\Debug\ElectronicWEB.csproj.CopyComplete
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\obj\Debug\ElectronicWEB.dll
+C:\Users\NHATPV\Documents\New folder\ElectronicWEB\obj\Debug\ElectronicWEB.pdb
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\ElectronicWEB.dll.config
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\ElectronicWEB.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\ElectronicWEB.pdb
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\csc.exe
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\csc.exe.config
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\csc.rsp
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\csi.exe
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\csi.exe.config
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\csi.rsp
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\System.Console.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\vbc.exe
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\vbc.rsp
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\EntityFramework.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\PagedList.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\PagedList.Mvc.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\System.Web.Helpers.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\System.Web.Mvc.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\System.Web.Optimization.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\System.Web.Razor.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\System.Web.WebPages.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\WebGrease.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\EntityFramework.xml
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\PagedList.xml
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\PagedList.Mvc.xml
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\System.Web.Helpers.xml
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\System.Web.Mvc.xml
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\System.Web.Optimization.xml
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\System.Web.Razor.xml
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\System.Web.WebPages.xml
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\obj\Debug\ElectronicWEB.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\obj\Debug\ElectronicWEB.csproj.CopyComplete
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\obj\Debug\ElectronicWEB.dll
+C:\Users\Admin\Documents\TT NHÓM\web\ElectronicWEB\obj\Debug\ElectronicWEB.pdb
